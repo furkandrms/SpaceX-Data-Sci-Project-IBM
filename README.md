@@ -16,13 +16,13 @@ By successfully landing and reusing this stage for subsequent missions, they've 
 ---
 ## **Executive Summary**
 
-**Data Collection Methodology**
+- **Data Collection Methodology**
     - SpaceX API and Web Scraping From Wikipedia
-**Perform Data Wrangling** 
+- **Perform Data Wrangling** 
     - One Hot Encoding data from Machine Learning 
-**Perform exploratory data analysis (EDA) using visualization and SQL** 
+- **Perform exploratory data analysis (EDA) using visualization and SQL** 
     - For data visualization, I utilized various plotting libraries.  
-**Perform interactive visual analytics using Folium and Plotly Dash**
+- **Perform interactive visual analytics using Folium and Plotly Dash**
     - Perform predictive analysis using classification models 
     - I utilized Logistic Regression, KNN, SVC, and DecisionTreeClassifier for the model-building process in my analysis.
 
