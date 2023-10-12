@@ -39,6 +39,6 @@ By successfully landing and reusing this stage for subsequent missions, they've 
 
 # License and Acknowledgements
 ---
-[© Copyright IBM Corporation 1994, 2022.](https://github.com/furkandrms/SpaceX-Data-Sci-Project-IBM/blob/main/LICENSE)
+[© Copyright IBM Corporation](https://github.com/furkandrms/SpaceX-Data-Sci-Project-IBM/blob/main/LICENSE)
 
 
